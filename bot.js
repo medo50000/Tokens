@@ -48,7 +48,7 @@ message.channel.send(args);
 
 
 client.login(process.env.BOT_TOKEN);
-client3.login(process.env.BOT_TOKEN3);
-client4.login(process.env.BOT_TOKEN4);
-client5.login(process.env.BOT_TOKEN5);
+client.login(process.env.BOT_TOKEN3);
+client.login(process.env.BOT_TOKEN4);
+client.login(process.env.BOT_TOKEN5);
 client6.login(process.env.BOT_TOKEN6);
